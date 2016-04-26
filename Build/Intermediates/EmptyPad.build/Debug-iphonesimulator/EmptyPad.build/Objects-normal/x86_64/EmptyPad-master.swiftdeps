@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "72951f2aa2dcf7afccbbe665593862be"
+build_time: [514996272, 192628000]
+inputs:
+  "/Users/Shared/Developpement/EmptyPad/EmptyPad/HamburgerButton.swift": [509535251, 0]
